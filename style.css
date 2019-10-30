@@ -2685,3 +2685,7 @@ img.small {
 		font-size: 22px;
 	}
 }
+
+.item-control img {
+    width:initial;
+}
